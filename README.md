@@ -13,13 +13,16 @@ acceder à androidmanifest.xml dans jadx-gui
 <img width="975" height="547" alt="image" src="https://github.com/user-attachments/assets/3a3d64ee-5251-46fb-930b-e02ccb9ca959" />
 
 Package Name:    
-      com.example.tp6_pizza
+      jakhar.aseem.diva
 Permissions:     
-      - com.example.tp6_pizza.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.INTERNET
 Exported Components:
-      Activity: com.example.tp6_pizza.MainActivity
-      Activity: com.example.tp6_pizza.ui.SplashActivity 
-      Activity: androidx.compose.ui.tooling.PreviewActivity 
-      Activity: androidx.activity.ComponentActivity 
-      Receiver: androidx.profileinstaller.ProfileInstallReceiver
+      jakhar.aseem.diva.NotesProvider
+      jakhar.aseem.diva.MainActivity
+      jakhar.aseem.diva.APICredsActivity
+      jakhar.aseem.diva.APICreds2Activity
+      
+     
 
