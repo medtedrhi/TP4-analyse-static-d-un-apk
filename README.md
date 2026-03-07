@@ -1,28 +1,29 @@
 TP4
 
-verifier si le apk est valid
-<img width="975" height="619" alt="image" src="https://github.com/user-attachments/assets/324daa48-1728-4e5c-8a7d-31fc628fe5a3" />
+ouvrir app avec jadx pour extraire code source
 
-lister les premiers 20 ligne
-<img width="1474" height="558" alt="image" src="https://github.com/user-attachments/assets/62c83b53-e498-4843-83b8-d2e8e2c041d1" />
+<img width="1321" height="748" alt="image" src="https://github.com/user-attachments/assets/b5cef079-f6e0-4e90-8ef6-ccc6b584b627" />
 
-obtenir le SHA-256 hash
-<img width="1457" height="262" alt="image" src="https://github.com/user-attachments/assets/e7c5c418-eee5-4ffc-9f07-e14d0a56535a" />
+utiliser ces methodes pour obtenir key
 
-acceder à androidmanifest.xml dans jadx-gui
-<img width="975" height="547" alt="image" src="https://github.com/user-attachments/assets/3a3d64ee-5251-46fb-930b-e02ccb9ca959" />
+<img width="991" height="548" alt="image" src="https://github.com/user-attachments/assets/398f1934-a26e-4110-a2a1-869f3d8561ec" />
 
-Package Name:    
-      jakhar.aseem.diva
-Permissions:     
-      android.permission.WRITE_EXTERNAL_STORAGE
-      android.permission.READ_EXTERNAL_STORAGE
-      android.permission.INTERNET
-Exported Components:
-      jakhar.aseem.diva.NotesProvider
-      jakhar.aseem.diva.MainActivity
-      jakhar.aseem.diva.APICredsActivity
-      jakhar.aseem.diva.APICreds2Activity
-      
+<img width="1125" height="602" alt="image" src="https://github.com/user-attachments/assets/7deb0195-b53a-4f41-a9f0-b8c69e292f04" />
+
+ouvrir un nouveau projet dans android studio et utiliser les methodes
+
+<img width="1525" height="807" alt="image" src="https://github.com/user-attachments/assets/6dab2bb0-7e80-4cc4-a1ac-3ed68bb5d6b4" />
+
+ouvrir logcat après lancer l'app
+
+<img width="1388" height="201" alt="image" src="https://github.com/user-attachments/assets/e6bcd3dd-05e0-4b03-9da0-1c6579c58f89" />
+la cle est trouvée
+
+essayer la cle dans l'app
+
+<img width="403" height="852" alt="image" src="https://github.com/user-attachments/assets/5a41d2a7-f960-4195-8af0-bb1cab65ebd8" />
+<img width="387" height="848" alt="image" src="https://github.com/user-attachments/assets/956f5e1f-442e-4307-a8bc-cc787bbabab5" />
+
+
      
 
