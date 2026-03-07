@@ -17,9 +17,9 @@ ouvrir un nouveau projet dans android studio et utiliser les methodes
 ouvrir logcat après lancer l'app
 
 <img width="1388" height="201" alt="image" src="https://github.com/user-attachments/assets/e6bcd3dd-05e0-4b03-9da0-1c6579c58f89" />
-la cle est trouvée
+la clé est trouvée
 
-essayer la cle dans l'app
+essayer la clé dans l'app
 
 <img width="403" height="852" alt="image" src="https://github.com/user-attachments/assets/5a41d2a7-f960-4195-8af0-bb1cab65ebd8" />
 <img width="387" height="848" alt="image" src="https://github.com/user-attachments/assets/956f5e1f-442e-4307-a8bc-cc787bbabab5" />
